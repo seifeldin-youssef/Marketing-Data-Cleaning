@@ -5,7 +5,6 @@ This project focuses on data cleaning and exploratory analysis using Python and 
 ## Tools Used
 - Python
 - Pandas
-- Jupyter Notebook
 
 ## Project Tasks
 - Data cleaning
